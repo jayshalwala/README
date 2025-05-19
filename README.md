@@ -25,7 +25,7 @@ I enjoy translating complex security scenarios into clear, actionable insights �
 
 ## 🧪 Featured Projects
 
-### 🔐 [Linux Security Audit](https://github.com/jayshalwala/linux-security-audit)
+### 🔐 [Linux Security Audit]([https://github.com/jayshalwala/linux-security-audit](https://github.com/jayshalwala/linux-security-audit))
 - Secured a simulated Ubuntu server: enforced firewall (ufw), disabled root SSH, updated user permissions.
 - Wrote a detailed audit report outlining findings and mitigation recommendations.
 
